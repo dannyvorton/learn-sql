@@ -6,7 +6,7 @@
 
 <h2>Course Content</h2>
 
-<h3>Lesson 1</h3>
+<h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson%201">Lesson 1</a></h3>
     <ul>
         <li>Install MySQL Server</li>
         <li>Install MySQL Workbench</li>
