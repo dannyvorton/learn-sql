@@ -9,12 +9,10 @@
 
 <h4>Install MySQL Server</h4>
     <p>
-        Navigate to <a href="https://dev.mysql.com/downloads/mysql/">MySQL Server</a> and download the appropriate version of <br>
-        MySQL Server for your computer.
+        Navigate to <a href="https://dev.mysql.com/downloads/mysql/" target="_blank" rel="noopener noreferrer">MySQL Server</a> and download the appropriate version of MySQL Server for your computer.
     </p>
 
 <h4>Install MySQL Workbench</h4>
     <p>
-        Navigate to <a href="https://dev.mysql.com/downloads/workbench/">MySQL Workbench</a> and download the appropriate version of <br>
-        MySQL Workbench for your computer.
+        Navigate to <a href="https://dev.mysql.com/downloads/workbench/" target="_blank" rel="noopener noreferrer">MySQL Workbench</a> and download the appropriate version of MySQL Workbench for your computer.
     </p>
