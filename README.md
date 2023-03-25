@@ -1,5 +1,7 @@
-<h1>Learn SQL</h1>
+<b>Course Title: </b> Learn SQL <br>
+<b>Instructor: <b> Danny Orton <br>
 
-<strong>Instructor: </strong> Danny Orton <br>
+<h2>Course Description</h2>
+<p>I curated the content in this course based on my experience working with relational databases and SQL.</p>
 
-<p>The content in this SQL course is based on my personal experience.</p>
+<h2>Course Content</h2>
