@@ -51,11 +51,6 @@
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-6">Lesson 6</a></h3>
     <ul>
         <li>Group By</li>
-        <li>Count()</li>
-        <li>Max()</li>
-        <li>Min()</li>
-        <li>Sum()</li>
-        <li>Avg()</li>
     </ul>
 
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-7">Lesson 7</a></h3>
