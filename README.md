@@ -37,15 +37,6 @@
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-5">Lesson 5</a></h3>
     <ul>
         <li>Where Clause</li>
-        <li>Equal</li>
-        <li>Greater Than</li>
-        <li>Greater Than or Equal</li>
-        <li>Less Than</li>
-        <li>Less Than or Equal</li>
-        <li>Not Equal</li>
-        <li>Between</li>
-        <li>Like</li>
-        <li>In</li>
     </ul>
 
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-6">Lesson 6</a></h3>
