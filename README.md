@@ -66,10 +66,6 @@
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-8">Lesson 8</a></h3>
     <ul>
         <li>Set Operations</li>
-        <li>Union</li>
-        <li>Union All</li>
-        <li>Intersect</li>
-        <li>Except</li>
     </ul>
 
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-9">Lesson 9</a></h3>
