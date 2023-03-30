@@ -72,7 +72,7 @@
         <li>Except</li>
     </ul>
 
-<h3><a href="">Lesson 9</a></h3>
+<h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-9">Lesson 9</a></h3>
     <ul>
         <li>Common Table Expression (CTE)</li>
     </ul>
