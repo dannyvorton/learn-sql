@@ -76,3 +76,8 @@
     <ul>
         <li>Common Table Expression (CTE)</li>
     </ul>
+
+<h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-10">Lesson 10</a></h3>
+    <ul>
+        <li>Subqueries</li>
+    </ul>
