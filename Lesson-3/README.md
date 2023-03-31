@@ -5,9 +5,9 @@
     <ul>
         <li><a href="https://github.com/dannyvorton/learn-sql/blob/main/Lesson-3/1-select-statement.sql">Select Statement</li>
             <ul>
-                <li>Alias</li>
-                <li>Case Statement</li>
-                <li>Window Functions</li>
+                <li><a href="https://github.com/dannyvorton/learn-sql/blob/main/Lesson-3/2-alias.sql">Alias</li>
+                <li><a href="https://github.com/dannyvorton/learn-sql/blob/main/Lesson-3/3-case-statement.sql">Case Statement</li>
+                <li><a href="https://github.com/dannyvorton/learn-sql/blob/main/Lesson-3/4-window-functions.sql"> Window Functions</li>
             </ul>
     </ul>
 
