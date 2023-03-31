@@ -7,7 +7,6 @@
             <ul>
                 <li>Alias</li>
                 <li>Case Statement</li>
-                <li>Right Join</li>
                 <li>Window Functions</li>
             </ul>
     </ul>
