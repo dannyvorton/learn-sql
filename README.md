@@ -28,10 +28,6 @@
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-4">Lesson 4</a></h3>
     <ul>
         <li>From Clause</li>
-        <li>Left Join</li>
-        <li>Inner Join</li>
-        <li>Right Join</li>
-        <li>Full Join</li>
     </ul>
 
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-5">Lesson 5</a></h3>
