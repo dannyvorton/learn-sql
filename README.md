@@ -20,9 +20,6 @@
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-3">Lesson 3</a></h3>
     <ul>
         <li>Select Statement</li>
-        <li>Alias</li>
-        <li>Case Statement</li>
-        <li>Window Functions</li>
     </ul>
 
 <h3><a href="https://github.com/dannyvorton/learn-sql/tree/main/Lesson-4">Lesson 4</a></h3>
